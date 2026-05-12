@@ -1,4 +1,4 @@
-# IKEA-AI-DATA-STRATEGY- # AI-Powered Waste Management System for IKEA
+# IKEA-AI-DATA-STRATEGY- AI-Powered Waste Management System for IKEA
 AI-driven data strategy for IKEA using LLMs, blockchain, and cloud architecture.
 The project proposes an intelligent waste management ecosystem that combines Artificial Intelligence, Blockchain, IoT, and Cloud Computing to reduce operational waste, improve inventory efficiency, and support circular economy objectives across IKEA’s supply chain and warehouse operations.
 ## Project Overview
