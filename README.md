@@ -13,6 +13,8 @@ The project addresses key sustainability and operational challenges faced by lar
 - Demand forecasting inaccuracies
 
 To tackle these challenges, the proposed AI-Powered Waste Management System (AWMS) leverages machine learning, computer vision, blockchain integration, and scalable AWS cloud infrastructure to optimize waste tracking and operational decision-making.
+<img width="699" height="481" alt="image" src="https://github.com/user-attachments/assets/b09d07ba-3f78-4f1b-8f4a-7cb5e0464fc3" />
+
 ## Business Objectives
 
 The proposed solution was designed to:
@@ -25,6 +27,7 @@ The proposed solution was designed to:
 - Strengthen IKEA’s sustainability and circular economy initiatives
 
 ## Core Solution Components
+<img width="840" height="708" alt="Proof of Value (POV) - visual selection (7)" src="https://github.com/user-attachments/assets/6045bac5-a3c5-4292-bd32-907214f6e93a" />
 
 ### AI-Powered Forecasting
 - Predictive waste forecasting using ML models such as ARIMA and LSTM
@@ -51,6 +54,7 @@ The proposed solution was designed to:
 ---
 
 ## Data Sources
+<img width="518" height="206" alt="image" src="https://github.com/user-attachments/assets/88a5d989-323b-4fb6-9a8b-88c8f161ebf6" />
 
 The proposed system integrates multiple real-time and historical data streams:
 
@@ -63,11 +67,8 @@ The proposed system integrates multiple real-time and historical data streams:
 ---
 
 ## AI Models & Methodology
+<img width="948" height="480" alt="Proof of Value (POV) - visual selection (1)" src="https://github.com/user-attachments/assets/346ee376-8c4d-405e-843d-81aed3beb56b" />
 
-### Models Proposed
-- ARIMA & LSTM for demand and waste forecasting
-- CNN (Convolutional Neural Networks) for material classification
-- Real-time recommendation engines for waste optimization
 
 ### Performance Metrics
 - RMSE & MAE for forecasting accuracy
@@ -98,32 +99,14 @@ The solution also incorporated:
 ## Tools & Technologies
 
 - Python
-- AWS SageMaker
-- AWS EKS
-- AWS Lambda
-- AWS Kinesis
-- AWS S3
-- AWS Redshift
+- AWS SageMaker; EKS; Lambda; Kinesis; S3; Redshift
 - Kubernetes
 - Blockchain
 - Power BI
-- Tableau
 - PyTorch
 - Jupyter Notebook
 
 ---
-
-## Expected Business Impact
-
-The proposed AWMS aimed to:
-
-- Reduce landfill waste and overproduction
-- Improve operational efficiency
-- Increase recycling and reuse rates
-- Enhance sustainability reporting
-- Deliver real-time AI-driven decision-making
-- Build a transparent and ethical digital ecosystem
-
 ## Academic Context
 
 This project was developed as part of the Big Data & AI module at Trinity Business School.
