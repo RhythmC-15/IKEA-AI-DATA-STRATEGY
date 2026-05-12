@@ -2,7 +2,7 @@
 AI-driven data strategy for IKEA using LLMs, blockchain, and cloud architecture.
 The project proposes an intelligent waste management ecosystem that combines Artificial Intelligence, Blockchain, IoT, and Cloud Computing to reduce operational waste, improve inventory efficiency, and support circular economy objectives across IKEA’s supply chain and warehouse operations.
 ## Project Overview
-<img width="383" height="230" alt="image" src="https://github.com/user-attachments/assets/25b07d9c-bcb2-4137-8886-076d18782438" />
+<img width="900" height="648" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/c5b6f195-7840-435f-b72b-eeb19dd2a3d5" />
 
 The project addresses key sustainability and operational challenges faced by large-scale retail supply chains, including:
 
